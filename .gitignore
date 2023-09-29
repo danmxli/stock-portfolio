@@ -1,0 +1,10 @@
+/.venv
+/.vscode
+/finance/__pycache__
+/finance/tests.py
+/finance/flask_session
+/finance/static
+/finance/templates
+/finance/app.py
+/finance/finance.db
+
