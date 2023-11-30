@@ -1,4 +1,4 @@
-# stock-portfolio
+ # Stock Portfolio CS50 Pset 9
 
 Responsive interface displaying stock data, analytics, purchase history, with options to buy and sell.
 
